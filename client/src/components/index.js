@@ -4,7 +4,6 @@ import './index.css';
 import App from './components/App';
 
 
-
 import registerServiceWorker from './components/registerServiceWorker';
 
 //import Arrow from 'react-icons/lib/fa/caret-right';
